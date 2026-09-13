@@ -1,1 +1,0 @@
-Windows EXE is not bundled because this runtime is Linux and PyInstaller does not cross-compile Windows executables. Use build_exe.bat on Windows; the project also contains GitHub Actions automation for the EXE.
