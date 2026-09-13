@@ -1,0 +1,3 @@
+# PythonOffice uses only Python standard library modules.
+# PyInstaller is needed only to create the Windows .exe:
+pyinstaller>=6.0
